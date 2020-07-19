@@ -41,7 +41,10 @@ public class TetstNg {
 	Assert.assertEquals(text, "The Purple Mattress");
 	
 	}
-	
+	private void sysout() {
+		System.out.println("completed");
+
+	}
 	
 	
 	
